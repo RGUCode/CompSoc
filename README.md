@@ -1,0 +1,2 @@
+# CompSoc
+Computing Society Repo
