@@ -1,0 +1,20 @@
+.wrapper{
+  margin: 0 auto;
+}
+
+table{
+  border-collapse: collapse;
+  overflow: hidden;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+td{
+  margin: 0 auto;
+  background-color: #8be36c;
+  padding: 15px;
+  height: 100px;
+  width: 100px;
+}
