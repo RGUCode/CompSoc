@@ -18,3 +18,23 @@ td{
   height: 100px;
   width: 100px;
 }
+
+#amc{
+  background-color: #00FF7F;
+}
+
+#amc #amcCredit{
+  visibility: hidden;
+  width: 100px;
+  background-color: #000;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  position: absolute;
+  z-index: 1;
+}
+
+#amc:hover #amcCredit{
+  visibility: visible;
+  top: 100px;
+}
