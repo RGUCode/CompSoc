@@ -19,6 +19,13 @@ td{
   width: 100px;
 }
 
+#headCell{
+  position: fixed;
+  left: 50%;
+  transform: translate(-50%, 0);
+  padding-top: 5px;
+}
+
 #amc{
   background-color: #00FF7F;
 }
