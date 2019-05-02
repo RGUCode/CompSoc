@@ -30,7 +30,7 @@ If you need a quick tutorial, there's a few ways to do it:
 * or
 * Learn a bit of command line Git with this [handy tutorial!](https://rogerdudler.github.io/git-guide/)
 
-
+To view online, click the link: https://rgucode.github.io/CompSoc/tapestry.html
 
 
 
